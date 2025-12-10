@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kush Bhardwaj</h1>
-<h3 align="center">Java Full Stack Developer | Problem Solver | Tech Explorer</h3>
+<h3 align="center">Full Stack Developer | Problem Solver | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kush-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -27,7 +27,7 @@ I'm a **Full Stack Developer** with strong foundations in **Node.js, React.js, a
 
 ### 👨‍💻 Backend
 - **Node.js 20**, Microservices, MVC Architecture, REST APIs  
-- **MySQL**, MongoDB  
+- **MySQL**, MongoDB, PostgreSQL  
 - Postman (API Testing)
 
 ### 🌐 Frontend
@@ -37,7 +37,7 @@ I'm a **Full Stack Developer** with strong foundations in **Node.js, React.js, a
 ### 🧰 Dev Tools
 - Git & GitHub, VS Code, Cursor  
 - Postman, Swagger UI  
-- Basic Docker, Deployment on Render/Netlify/AWS/Namecheap  
+- Basic Docker, Deployment on Render,Netlify,vercel,AWS,Namecheap  
 
 ---
 
@@ -59,7 +59,7 @@ I'm a **Full Stack Developer** with strong foundations in **Node.js, React.js, a
 
 ## 🌟 Highlights
 
-- Built Full Stack Projects using **Node.js + React**
+- Built Full Stack Projects using **Node.js + React** + **MongoDB** + **Redis** + **Redux-Toolkit**
 - API Integration & Proper Error Handling  
 - Strong Version Control skills  
 - Understanding of OOP, DBMS & Data Structures
