@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kush Bhardwaj</h1>
+<h3 align="center">Java Full Stack Developer | Problem Solver | Tech Explorer</h3>
 
-<!--
-**kush-bhardwaj/kush-bhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kush-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Academic Background
+
+🎓 **B.A**  
+🏫 Delhi University, New Delhi  
+📅 Graduated in 2024 | 🎯 **CGPA: 8.15/10**
+
+---
+
+## 💼 Professional Summary
+
+I'm a **Full Stack Developer** with strong foundations in **Node.js, React.js, and RESTful APIs**. I love building scalable, end-to-end web applications and solving real-world problems through clean and efficient code.
+
+💡 Passionate about writing modular code, building responsive UIs, and understanding both the **frontend and backend** of web applications.
+
+---
+
+## 🚀 Tech Stack
+
+### 👨‍💻 Backend
+- **Node.js 20**, Microservices, MVC Architecture, REST APIs  
+- **MySQL**, MongoDB  
+- Postman (API Testing)
+
+### 🌐 Frontend
+- **React.js**, JavaScript (ES6+), Redux Toolkit  
+- HTML5, CSS3, Tailwind CSS, Bootstrap  
+
+### 🧰 Dev Tools
+- Git & GitHub, VS Code, Cursor  
+- Postman, Swagger UI  
+- Basic Docker, Deployment on Render/Netlify/AWS/Namecheap  
+
+---
+
+## 📊 GitHub Insights
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush-bhardwaj&layout=compact&theme=default" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kush-bhardwaj&show_icons=true&theme=default" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kush-bhardwaj&theme=default" />
+</p>
+
+---
+
+## 🌟 Highlights
+
+- Built Full Stack Projects using **Node.js + React**
+- API Integration & Proper Error Handling  
+- Strong Version Control skills  
+- Understanding of OOP, DBMS & Data Structures
+
+---
+
+## 🤝 Let's Collaborate
+
+- Looking for opportunities in **Full Stack / Backend Development**  
+- Open to working on Open Source Projects  
+- 💬 Ask me about: `Node`, `MVC`, `React.js`
+
+---
+
+## 📫 Reach Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kushbhardwajdev05/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kushbhardwaj8800@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🔥 Quote That Drives Me
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
+### 👨‍💻 _Let’s build something impactful together._
