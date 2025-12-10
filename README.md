@@ -89,7 +89,7 @@ I'm a **Full Stack Developer** with strong foundations in **Node.js, React.js, a
 ---
 
 ## 🔥 Quote That Drives Me
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+> “Backend is not visible, but it makes everything possible.” — Kush Bhardwaj
 
 ---
 
