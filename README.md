@@ -55,7 +55,7 @@ I'm a **Full Stack Developer** with strong foundations in **Node.js, React.js, a
 
 - Looking for opportunities in **Full Stack / Backend Development**  
 - Open to working on Open Source Projects  
-- 💬 Ask me about: `Node`, `MVC`, `React.js`, `express`, `pytho`, `javaScript`,`next.js`
+- 💬 Ask me about: `Node`, `MVC`, `React.js`, `express`, `python`, `javaScript`,`next.js`
 
 ---
 
