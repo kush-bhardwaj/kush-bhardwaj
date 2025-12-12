@@ -39,21 +39,6 @@ I'm a **Full Stack Developer** with strong foundations in **Node.js, React.js, a
 - Postman, Swagger UI  
 - Basic Docker, Deployment on Render,Netlify,vercel,AWS,Namecheap  
 
----
-
-## 📊 GitHub Insights
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush-bhardwaj&layout=compact&theme=default" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kush-bhardwaj&show_icons=true&theme=default" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kush-bhardwaj&theme=default" />
-</p>
 
 ---
 
