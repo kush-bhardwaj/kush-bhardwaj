@@ -9,7 +9,7 @@
 
 ## 🎓 Academic Background
 
-🎓 **B.A**  
+🎓 **Bachelor of Computer Applications**  
 🏫 Delhi University, New Delhi  
 📅 Graduated in 2024 | 🎯 **CGPA: 8.15/10**
 
