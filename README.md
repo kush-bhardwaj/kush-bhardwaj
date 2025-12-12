@@ -32,7 +32,7 @@ I'm a **Full Stack Developer** with strong foundations in **Node.js, React.js, a
 
 ### 🌐 Frontend
 - **React.js**, **JavaScript (ES6+)**, **Redux-Toolkit** ,**Next.js**
-- HTML5, CSS3, Tailwind CSS, Bootstrap  
+- HTML5, CSS3, Tailwind CSS, Bootstrap, **Shadcn Ui**
 
 ### 🧰 Dev Tools
 - Git & GitHub, VS Code, Cursor  
