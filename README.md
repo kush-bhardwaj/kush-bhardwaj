@@ -44,10 +44,10 @@ I'm a **Full Stack Developer** with strong foundations in **Node.js, React.js, a
 
 ## 🌟 Highlights
 
-- Built Full Stack Projects using **Node.js + React** + **MongoDB** + **Redis** + **Redux-Toolkit**
-- API Integration & Proper Error Handling  
-- Strong Version Control skills  
-- Understanding of OOP, DBMS & Data Structures
+- ✅ Built Full Stack Projects using **Node.js + React** + **MongoDB** + **Redis** + **Redux-Toolkit**
+- ✅ API Integration & Proper Error Handling  
+- ✅ Strong Version Control skills  
+- ✅ Understanding of OOP, DBMS & Data Structures
 
 ---
 
